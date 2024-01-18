@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#form{
+    background-color:aliceblue;
+    padding: 3em;
+}
+
+h1{
+    text-align: center;
+}
+
+#img{
+    padding-left: 65rem;
+    height: 15rem;
+}

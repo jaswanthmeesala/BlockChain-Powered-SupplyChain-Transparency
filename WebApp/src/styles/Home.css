@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+section{
+    background-color: aliceblue;
+}
+h2{
+    display: inline;
+    padding-left: 4em;
+}
